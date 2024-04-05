@@ -47,3 +47,5 @@
   - I really want to explore ui/ux more in-depth because it's something I've been interested in
   - I'm hoping to get an internship some time second or third year
   - I have plans to start a personal project (starting it has been very difficult however :face_with_spiral_eyes:)
+
+[SUPER IMPORTANT INFORMATION](SUPERIMPORTANT.md)
