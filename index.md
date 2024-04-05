@@ -2,12 +2,13 @@
 
 ## Family Info
   - I come from a family of 4 (my mom, dad, and younger sister)
-  
+  ![photoOfFamily](familyphoto.jpeg)
       
   - I also have a half-brother (**Jason**) who is 4 years older than me and 8 years older than my younger sister (**Hayden**)
-  ![photoOfBrother](/jasonphoto.jpeg)
-  - I also have a super cute *(non-stereotypical rat white dog)* dog
-  - INSERT IMAGE
+  ![photoOfBrother](jasonphoto.jpeg)
+
+  - I also have a super cute dog named **Bambi**
+  
 
 
 ## Random Facts
@@ -16,7 +17,7 @@
       > Defenders are very dedicated and warm protectors, always ready to defend their loved ones. These unassuming types are efficient and          responsible, always opting for practicality in life (16personalities).
 
   - My family loves to travel
-  - INSERT IMAGES
+  ![canadaTrip](northernlights.jpeg)
 
   - I don't really have a favorite programming language, but I do enjoy programming in *python* and *java*
   
