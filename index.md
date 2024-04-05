@@ -2,7 +2,8 @@
 
 ## Family Info
   - I come from a family of 4 (my mom, dad, and younger sister)
-  - INSERT IMAGE
+  
+      
   - I also have a half-brother (**Jason**) who is 4 years older than me and 8 years older than my younger sister (**Hayden**)
   - INSERT IMAGE
   - I also have a super cute *(non-stereotypical rat white dog)* dog
@@ -48,4 +49,4 @@
   - I'm hoping to get an internship some time second or third year
   - I have plans to start a personal project (starting it has been very difficult however :face_with_spiral_eyes:)
 
-[SUPER IMPORTANT INFORMATION](SUPERIMPORTANT.md)
+***[SUPER IMPORTANT INFORMATION](SUPERIMPORTANT.md)***
