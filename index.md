@@ -5,7 +5,7 @@
   
       
   - I also have a half-brother (**Jason**) who is 4 years older than me and 8 years older than my younger sister (**Hayden**)
-  - INSERT IMAGE
+  ![photoOfBrother](/jasonphoto.jpeg)
   - I also have a super cute *(non-stereotypical rat white dog)* dog
   - INSERT IMAGE
 
