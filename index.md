@@ -21,12 +21,12 @@
 
   - I don't really have a favorite programming language, but I do enjoy programming in *python* and *java*
   
-  ### My Favorite git commands
+  ## My Favorite git commands
     - `git add`
     - `git commit`
     - `git push`
 
-  ### Classes I need to take until I can graduate
+  ## Classes I need to take until I can graduate
   - [ ] cse 141 & 141l or 142 & 142l
   - [ ] cse 120 or 123 or 124
   - [ ] cse 130 or 132a
