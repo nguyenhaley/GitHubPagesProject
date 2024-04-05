@@ -21,19 +21,19 @@
 
   - I don't really have a favorite programming language, but I do enjoy programming in *python* and *java*
   
-  ## My Favorite git commands
-    - `git add`
-    - `git commit`
-    - `git push`
+## My Favorite git commands
+  - `git add`
+  - `git commit`
+  - `git push`
 
-  ## Classes I need to take until I can graduate
-  - [ ] cse 141 & 141l or 142 & 142l
-  - [ ] cse 120 or 123 or 124
-  - [ ] cse 130 or 132a
-  - [ ] cse 107 or 127
-  - [ ] elective 1
-  - [ ] elective 2
-  - [ ] elective 3
+## Classes I need to take until I can graduate
+- [ ] cse 141 & 141l or 142 & 142l
+- [ ] cse 120 or 123 or 124
+- [ ] cse 130 or 132a
+- [ ] cse 107 or 127
+- [ ] elective 1
+- [ ] elective 2
+- [ ] elective 3
 
 ## Hobbies
   1. Going to the [gym](https://www.cdc.gov/physicalactivity/basics/pahealth/index.htm#:~:text=Regular%20physical%20activity%20is%20one,ability%20to%20do%20everyday%20activities.)
